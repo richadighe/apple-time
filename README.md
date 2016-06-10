@@ -1,4 +1,12 @@
-# basic-project
-Basic Project 
+# apple-time
+apple time 
 Created by " Richa Dighe
-The project is used to add the reports that will be created during the boot camp , it will have different branches to track the project.
+#Selenium IDE Import Project
+
+*Project which uses Selenium IDE and exports the test to Java with TestNG. Code is then modified to support data driven testing with proper assertions.
+
+Java 7
+
+* Maven
+* Selenium
+* TestNG
